@@ -110,10 +110,3 @@ These platforms will be used to build a professional identity and showcase skill
   * Helpline: 1930
 
 ---
-
-## 📄 Project Report
-
-The detailed report for all tasks is available here:
-📁 `report/Project_Report.pdf`
-
----
